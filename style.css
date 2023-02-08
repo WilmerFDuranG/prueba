@@ -1,0 +1,75 @@
+header{
+    background-color: #1e1d2b;
+}
+.Encabezado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.Foods{
+    color: #ff702a;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.links{
+    margin:0%;
+    padding: 0%;
+    display: flex;
+    justify-content:space-between ;
+    align-items:center;
+    color: #fff;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a{
+    display: flex;
+    padding-right: 10px
+}
+/*background-color: #1e1d2b*/
+/* CONTENEDOR1*/
+.Titulo{
+    color: #ff702a;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.Ptitulo{
+    color: #fff;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.BotonM{
+    display: flex;
+    height: 40px;
+    align-content: center;
+    background-color:#ff702a;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    height: 2000px;
+ 
+}
+/*SECCION 2*/
+
+.ContenedorDos h6{
+    font-family: 'moserrat', 'Arial';
+    display: flex;
+    color: #ff702a;
+    justify-content: center;
+    padding: 20px;
+}
+.pconte{
+    color: #fff;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
